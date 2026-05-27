@@ -1,10 +1,5 @@
 ## Hi there 👋
 
-<!--
-**ellehelvig/ellehelvig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on building HR AI transformation programs — strategy, governance, agent design, and the enablement work that makes any of it stick.
 
 Currently focused on responsible AI in People operations: identifying the right use cases, designing the governance, deploying the agents, and training the teams who'll use them.
@@ -20,7 +15,7 @@ Currently focused on responsible AI in People operations: identifying the right 
 
 ## What I focus on
 
-AI use case prioritization. Responsible AI governance. Agent design and evaluation. HR team enablement. Most of the failures I've seen in HR AI come from skipping the unsexy work, not from picking the wrong model.
+AI use case prioritization. Responsible AI governance. Agent design and evaluation. HR team enablement. Most of the failures I've seen in HR AI come from skipping the detail work, not from picking the wrong model.
 
 ## What I believe
 
