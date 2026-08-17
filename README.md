@@ -10,6 +10,7 @@ I work with HR and People Teams to build AI programs that hold up in production.
 - [29 structured evals](https://github.com/ellehelvig/hr-ai-transformation-playbook/blob/main/09-evals/hr-qa-agent-evals.yaml) for an HR Q&A agent, covering adversarial, sensitive, and escalation scenarios
 - [Agent design patterns](https://github.com/ellehelvig/hr-ai-transformation-playbook/tree/main/07-agentic-patterns) drawn from production HR agent deployments
 - [AI use policy and risk assessment template](https://github.com/ellehelvig/hr-ai-transformation-playbook/tree/main/03-governance) designed to hold up to legal review
+- [Live ROI dashboard](https://ellehelvig.github.io/hr-ai-transformation-playbook/08-roi-measurement/dashboard.html), a working mock-up with a payback calculator that runs on your own numbers
 
 It is a living project, updated as I learn. Contributions are welcome.
 
@@ -23,4 +24,4 @@ Humans make consequential employment decisions. AI may inform, not decide. Every
 
 ## Connect
 
-Happy to talk HR AI, agentic workflows, and the practical realities of People Tech. Find me on [LinkedIn](https://www.linkedin.com/in/elle-helvig/).
+Happy to talk HR AI, agentic workflows, and the practical realities of People Tech. Find me on [LinkedIn](https://www.linkedin.com/in/ellehelvig/).
