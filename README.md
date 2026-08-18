@@ -1,6 +1,6 @@
 # Elle Helvig
 
-I work with HR and People Teams to build AI programs that hold up in production. My focus is the work that often gets skipped: identifying the right use cases, designing the governance, deploying agents that handle edge cases gracefully, and training the teams who will rely on them.
+My focus is the work that often gets skipped: identifying the right use cases, designing the governance, deploying agents that handle edge cases gracefully, and training the teams who will rely on them.
 
 ## What I'm building in public
 
