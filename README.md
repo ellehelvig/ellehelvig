@@ -11,6 +11,7 @@ My focus is the work that often gets skipped: identifying the right use cases, d
 - [Agent design patterns](https://github.com/ellehelvig/hr-ai-transformation-playbook/tree/main/07-agentic-patterns) drawn from production HR agent deployments
 - [AI use policy and risk assessment template](https://github.com/ellehelvig/hr-ai-transformation-playbook/tree/main/03-governance) designed to hold up to legal review
 - [Live ROI dashboard](https://ellehelvig.github.io/hr-ai-transformation-playbook/08-roi-measurement/dashboard.html), a working mock-up with a payback calculator that runs on your own numbers
+- [A working MCP agent server](https://github.com/ellehelvig/hr-ai-transformation-playbook/tree/main/10-mcp-agents), four tools (comp banding, bias-mitigated resume screening, recruiter intake calibration, governance policy Q&A) with 32 passing tests behind them, not a prompt-only sketch
 
 It is a living project, updated as I learn. Contributions are welcome.
 
