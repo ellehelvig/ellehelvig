@@ -26,3 +26,4 @@ Humans make consequential employment decisions. AI may inform, not decide. Every
 ## Connect
 
 Happy to talk HR AI, agentic workflows, and the practical realities of People Tech. Find me on [LinkedIn](https://www.linkedin.com/in/ellehelvig/).
+ 
