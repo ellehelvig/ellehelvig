@@ -15,7 +15,7 @@ My focus is the work that often gets skipped: identifying the right use cases, d
 
 It is a living project, updated as I learn. Contributions are welcome.
 
-[**Resolve: PeopleOps Resolution Agent**](https://github.com/ellehelvig/peopleops-resolution-agent) · A governed HR case-resolution agent, end to end. Injection and sensitive-data requests stop before any tool access, Employee Relations and legal language escalate without fact-finding, every consequential recommendation waits for a named human, and a 60-case adversarial evaluation suite with the latest report committed to the repo.
+[**Resolve: PeopleOps Resolution Agent**](https://github.com/ellehelvig/peopleops-resolution-agent) · A governed HR case-resolution agent, end to end. Injection and sensitive-data requests stop before any tool access, Employee Relations and legal language escalate without fact-finding, every consequential recommendation waits for a named human, and a 60-case adversarial evaluation suite runs in CI with the committed report checked against the engine.
 
 ## What I focus on
 
