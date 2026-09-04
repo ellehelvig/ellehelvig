@@ -4,16 +4,18 @@ My focus is the work that often gets skipped: identifying the right use cases, d
 
 ## What I'm building in public
 
-[**HR AI Transformation Playbook**](https://github.com/ellehelvig/hr-ai-transformation-playbook) is a practitioner's field guide for HR and People Teams building AI programs. The pieces people ask about most:
+[**HR AI Transformation Playbook**](https://github.com/ellehelvig/hr-ai-transformation-playbook) · A working toolkit, not a slide deck. Eleven sections, MIT licensed, CI on every push.
 
-- [37 vetted HR AI use cases](https://github.com/ellehelvig/hr-ai-transformation-playbook/blob/main/01-use-cases/use-case-library.md) rated on impact, effort, and risk
-- [29 structured evals](https://github.com/ellehelvig/hr-ai-transformation-playbook/blob/main/09-evals/hr-qa-agent-evals.yaml) for an HR Q&A agent, covering adversarial, sensitive, and escalation scenarios
-- [Agent design patterns](https://github.com/ellehelvig/hr-ai-transformation-playbook/tree/main/07-agentic-patterns) drawn from production HR agent deployments
-- [AI use policy and risk assessment template](https://github.com/ellehelvig/hr-ai-transformation-playbook/tree/main/03-governance) designed to hold up to legal review
-- [Live ROI dashboard](https://ellehelvig.github.io/hr-ai-transformation-playbook/08-roi-measurement/dashboard.html), a working mock-up with a payback calculator that runs on your own numbers
-- [A working MCP agent server](https://github.com/ellehelvig/hr-ai-transformation-playbook/tree/main/10-mcp-agents), four tools (comp banding, bias-mitigated resume screening, recruiter intake calibration, governance policy Q&A) with 32 passing tests behind them, not a prompt-only sketch
+- [Six installable agent skills](https://github.com/ellehelvig/hr-ai-transformation-playbook/tree/main/11-skills), ranked in the order an HR team should adopt them, with a human capability ladder for each
+- [Governance suite](https://github.com/ellehelvig/hr-ai-transformation-playbook/tree/main/03-governance) covering the EU AI Act (Annex III employment obligations from 2 December 2027), GDPR Article 22, and US state law, re-verified weekly against primary sources
+- [A working MCP server](https://github.com/ellehelvig/hr-ai-transformation-playbook/tree/main/10-mcp-agents): comp banding, bias-mitigated resume screening, recruiter intake, policy Q&A. 32 tests. `human_review_required` has no code path that turns it off.
+- [Attrition model with a three-part fairness audit](https://github.com/ellehelvig/hr-ai-transformation-playbook/blob/main/05-notebooks/attrition-risk-modeling.ipynb): four-fifths selection rates, calibration by group, error-rate parity
+- [Eval framework](https://github.com/ellehelvig/hr-ai-transformation-playbook/tree/main/09-evals) with launch-blocking exit codes, so a failed refusal or escalation gate stops a deploy
+- [Live ROI dashboard](https://ellehelvig.github.io/hr-ai-transformation-playbook/08-roi-measurement/dashboard.html) with a payback calculator that makes you pick a realization rate
 
 It is a living project, updated as I learn. Contributions are welcome.
+
+[**Resolve: PeopleOps Resolution Agent**](https://github.com/ellehelvig/peopleops-resolution-agent) · A governed HR case-resolution agent, end to end. Injection and sensitive-data requests stop before any tool access, Employee Relations and legal language escalate without fact-finding, every consequential recommendation waits for a named human, and a 60-case adversarial evaluation suite with the latest report committed to the repo.
 
 ## What I focus on
 
