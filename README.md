@@ -1,30 +1,46 @@
 # Elle Helvig
 
-My focus is the work that often gets skipped: identifying the right use cases, designing the governance, deploying agents that handle edge cases gracefully, and training the teams who will rely on them.
+### HR transformation × applied AI
 
-## What I'm working on:
+I build practical tools for People teams adopting AI: use-case prioritization, governance, agent workflows, evaluation, and team enablement. My focus is making the work usable, inspectable, and accountable to people.
 
-[**HR AI Transformation Playbook**](https://github.com/ellehelvig/hr-ai-transformation-playbook) · A working toolkit, not a slide deck. Eleven sections, MIT licensed, CI on every push.
+[Explore my portfolio](https://ellehelvig.github.io/) · [Connect on LinkedIn](https://www.linkedin.com/in/elle-helvig/)
 
-- [Six installable agent skills](https://github.com/ellehelvig/hr-ai-transformation-playbook/tree/main/11-skills), ranked in the order an HR team should adopt them, with a human capability ladder for each
-- [Governance suite](https://github.com/ellehelvig/hr-ai-transformation-playbook/tree/main/03-governance) covering the EU AI Act (Annex III employment obligations from 2 December 2027), GDPR Article 22, and US state law, re-verified weekly against primary sources
-- [A working MCP server](https://github.com/ellehelvig/hr-ai-transformation-playbook/tree/main/10-mcp-agents): comp banding, bias-mitigated resume screening, recruiter intake, policy Q&A. 32 tests. `human_review_required` has no code path that turns it off.
-- [Attrition model with a three-part fairness audit](https://github.com/ellehelvig/hr-ai-transformation-playbook/blob/main/05-notebooks/attrition-risk-modeling.ipynb): four-fifths selection rates, calibration by group, error-rate parity
-- [Eval framework](https://github.com/ellehelvig/hr-ai-transformation-playbook/tree/main/09-evals) with launch-blocking exit codes, so a failed refusal or escalation gate stops a deploy
-- [Live ROI dashboard](https://ellehelvig.github.io/hr-ai-transformation-playbook/08-roi-measurement/dashboard.html) with a payback calculator that makes you pick a realization rate
+## Start here
 
-It is a living project, updated as I learn. Contributions are welcome.
+| If you want to… | Explore |
+| --- | --- |
+| Build an HR AI adoption plan | [HR AI Transformation Playbook](https://github.com/ellehelvig/hr-ai-transformation-playbook): 11 sections from discovery to measurement |
+| Inspect a working HR workflow | [Resolve: PeopleOps Resolution Agent](https://github.com/ellehelvig/peopleops-resolution-agent): synthetic requests, policy citations, review queue, and audit events |
+| Try the work | [Resolve demo](https://peopleops-resolution-agent.onrender.com) · [ROI calculator](https://ellehelvig.github.io/hr-ai-transformation-playbook/08-roi-measurement/dashboard.html) |
 
-[**Resolve: PeopleOps Resolution Agent**](https://github.com/ellehelvig/peopleops-resolution-agent) · A governed HR case-resolution agent, end to end. Injection and sensitive-data requests stop before any tool access, Employee Relations and legal language escalate without fact-finding, every consequential recommendation waits for a named human, and a 60-case adversarial evaluation suite runs in CI with the committed report checked against the engine.
+## HR AI Transformation Playbook
 
-## What I focus on
+[![Playbook CI](https://github.com/ellehelvig/hr-ai-transformation-playbook/actions/workflows/ci.yml/badge.svg)](https://github.com/ellehelvig/hr-ai-transformation-playbook/actions/workflows/ci.yml)
 
-AI use case prioritization. Responsible AI governance. Agent design and evaluation. HR team enablement. Most of the failures I've seen in HR AI come from skipping the detail work, not from picking the wrong model.
+An MIT-licensed toolkit that HR teams can adapt to their own operating context.
 
-## What I believe
+- [37 use cases](https://github.com/ellehelvig/hr-ai-transformation-playbook/blob/main/01-use-cases/use-case-library.md) and a prioritization framework.
+- [Six installable skills](https://github.com/ellehelvig/hr-ai-transformation-playbook/tree/main/11-skills) with adoption guidance and human review boundaries.
+- [Four MCP tools](https://github.com/ellehelvig/hr-ai-transformation-playbook/tree/main/10-mcp-agents) for compensation banding, resume evidence review, recruiter intake, and policy retrieval. The repository includes 52 tool tests.
+- [29 evaluation scenarios](https://github.com/ellehelvig/hr-ai-transformation-playbook/tree/main/09-evals), launch-blocking scoring gates, and tests for the scorer and judge.
+- [Governance templates and a claims registry](https://github.com/ellehelvig/hr-ai-transformation-playbook/tree/main/03-governance) with source links and scheduled checks. Automated checks do not replace legal review or establish that every claim has been independently verified.
+- [Synthetic-data notebooks](https://github.com/ellehelvig/hr-ai-transformation-playbook/tree/main/05-notebooks) and an [ROI calculator](https://ellehelvig.github.io/hr-ai-transformation-playbook/08-roi-measurement/dashboard.html) for exploring assumptions.
 
-Humans make consequential employment decisions. AI may inform, not decide. Every automated workflow needs a clear path to a human. Governance built in, not bolted on.
+## Resolve: PeopleOps Resolution Agent
 
-## Connect
+[![Resolve quality](https://github.com/ellehelvig/peopleops-resolution-agent/actions/workflows/quality.yml/badge.svg)](https://github.com/ellehelvig/peopleops-resolution-agent/actions/workflows/quality.yml)
 
-Happy to talk HR AI, agentic workflows, and the practical realities of People Tech. Find me on [LinkedIn](https://www.linkedin.com/in/ellehelvig/).
+A deterministic reference implementation for parental leave, remote work, relocation, and manager-change requests. It demonstrates policy retrieval, minimum-field lookups, escalation, a human-review queue, and an audit trail.
+
+[Read the architecture](https://github.com/ellehelvig/peopleops-resolution-agent/blob/main/docs/architecture.md) · [Inspect the 60-case evaluation baseline](https://github.com/ellehelvig/peopleops-resolution-agent/blob/main/docs/evaluation-methodology.md) · [Review production gaps](https://github.com/ellehelvig/peopleops-resolution-agent/blob/main/docs/governance-and-risk.md)
+
+The demo uses synthetic data and self-reported reviewer identities. Its test results describe the included deterministic scenarios; they are not evidence of production authorization or general LLM safety.
+
+## How I work
+
+Start with the operating problem. Make the workflow tangible. Test the failure cases. Give teams the training and feedback loops to use it well.
+
+Humans make consequential employment decisions. AI may inform those decisions, with clear boundaries and a path to human review.
+
+Contributions and thoughtful feedback are welcome through each project's issues and pull requests.
