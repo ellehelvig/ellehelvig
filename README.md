@@ -1,6 +1,6 @@
 # Elle Helvig
 
-### HR transformation leader building practical, governed AI workflows for People teams
+### HR transformation:  building practical, governed AI workflows for People teams
 
 I translate workforce problems into prioritized use cases, operating models, prototypes, evaluations, and adoption plans. My work combines HR domain expertise with enough technical fluency to partner effectively with Engineering, Data, Legal, Privacy, and Security.
 
