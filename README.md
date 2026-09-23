@@ -2,7 +2,7 @@
 
 ### HR transformation leader building responsible AI programs for People teams
 
-I help People teams move from scattered AI experiments to adoption that is useful, governed, and measured. I bring HR operating experience from KPMG, MongoDB, VMware, Thomson Reuters, and SAIC, and I build working prototypes myself with AI-assisted development.
+I help People teams move from scattered AI experiments to adoption that is useful, governed, and measured. I bring HR operating experience from KPMG, MongoDB, VMware, Thomson Reuters, and SAIC, and I build working prototypes myself, using Claude Code for AI-assisted development.
 
 [Portfolio](https://ellehelvig.github.io/) · [LinkedIn](https://www.linkedin.com/in/ellehelvig/)
 
