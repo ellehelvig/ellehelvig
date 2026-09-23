@@ -21,7 +21,9 @@ The operating model for an HR AI program, from choosing use cases to proving val
 
 ### [Resolve: PeopleOps Resolution Agent](https://github.com/ellehelvig/peopleops-resolution-agent)
 
-An HR case agent that takes an employee request, such as parental leave or a relocation, from intake to a recommendation with policy citations, a human approval step, and an audit trail. Tested against 60 scenarios, including prompt injection and Employee Relations escalations. [Try the demo](https://peopleops-resolution-agent.onrender.com) (it can take about 30 seconds to wake up).
+An HR case agent that takes an employee request, such as parental leave or a relocation, from intake to a recommendation with policy citations, a human approval step, and an audit trail. Tested against 60 scenarios, including prompt injection and Employee Relations escalations. [Try the demo](https://ellehelvig.github.io/peopleops-resolution-agent/); it runs in your browser.
+
+[![Resolve walkthrough: a parental-leave request answered with a policy citation, a prompt-injection attempt refused, and a People Partner approving the draft](https://raw.githubusercontent.com/ellehelvig/peopleops-resolution-agent/main/docs/assets/resolve-walkthrough.gif)](https://ellehelvig.github.io/peopleops-resolution-agent/)
 
 ## What the work shows
 
