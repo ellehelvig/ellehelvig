@@ -27,8 +27,6 @@ The controls an HR agent needs, built first and without a language model. An emp
 
 [![Resolve walkthrough: a parental-leave request answered with a policy citation, a prompt-injection attempt refused, and a People Partner approving the draft](https://raw.githubusercontent.com/ellehelvig/peopleops-resolution-agent/main/docs/assets/resolve-walkthrough.gif)](https://ellehelvig.github.io/peopleops-resolution-agent/)
 
-Also: [Ethical HR Copilot](https://ellehelvig.github.io/#work), an LLM decision-support prototype for sensitive workforce decisions.
-
 ## What the work shows
 
 | Capability | Where to see it |
