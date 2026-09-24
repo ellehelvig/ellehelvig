@@ -11,7 +11,7 @@ I help People teams move from scattered AI experiments to adoption that is usefu
 - **Start with the decision, not the tool.** Pick use cases on value, risk, and readiness.
 - **Build governance in from the start.** Legal, Privacy, and employee representatives see the design, not just the launch.
 - **Humans make consequential employment decisions.** AI informs hiring, pay, and performance. It does not decide them.
-- **Adoption is the product.** Training and measurement are part of the plan from day one.
+- **Measure changed work, not launched tools.** A tool nobody trusts is a cost. Training and measurement are part of the plan from day one.
 
 ## Selected work
 
