@@ -14,7 +14,7 @@ A request's wording is not its intent. Classifying it is not merely a language p
    The thinking. One HR role broken into tasks and classified: rules where rules are exact, AI where it helps a person, and people where judgment and accountability matter. Zero tasks currently meet the evidence threshold for end-to-end model autonomy.
 
 2. **[Resolve](https://github.com/ellehelvig/peopleops-resolution-agent)**
-   The evidence. An HR case workflow with a human approval gate and an audit trail, built with rules and no language model. It passes its 60-case regression suite and 0 of 16 held-out cases, and that gap is documented rather than patched. [Try the demo](https://ellehelvig.github.io/peopleops-resolution-agent/) or read [how it works](https://github.com/ellehelvig/peopleops-resolution-agent/blob/main/TECHNICAL-WALKTHROUGH.md).
+   The evidence. An HR case workflow with a human approval gate and an audit trail, built with rules and no language model. It passes its 60-case regression suite and 0 of 16 held-out cases, and production use is withheld because sensitive concerns were missed. The original holdout remains historical evidence; any redesign needs new unseen tests. [Try the demo](https://ellehelvig.github.io/peopleops-resolution-agent/) or read [how it works](https://github.com/ellehelvig/peopleops-resolution-agent/blob/main/TECHNICAL-WALKTHROUGH.md).
 
 3. **[HR AI Transformation Playbook](https://github.com/ellehelvig/hr-ai-transformation-playbook)**
    The reference system behind both: use-case prioritization, governance templates, evaluation tooling, and adoption material for a People AI program.
