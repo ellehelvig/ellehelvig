@@ -1,37 +1,22 @@
 # Elle Helvig
 
-### HR transformation leader building responsible AI programs for People teams
+### People and transformation leader deciding where AI belongs in work
 
-I help People teams move from scattered AI experiments to adoption that is useful, governed, and measured. I bring HR operating experience from KPMG, MongoDB, VMware, Thomson Reuters, and SAIC, and I build working prototypes myself, using Claude Code for AI-assisted development.
+I work where People expertise meets AI transformation: redesigning work, governing it, and helping organizations adopt it. Most of that work is deciding where AI belongs, where it does not, and what evidence has to exist before a system is trusted with more autonomy. I bring HR operating experience from KPMG, MongoDB, VMware, Thomson Reuters, and SAIC, and I build prototypes with AI-assisted development (Claude Code).
+
+A request's wording is not its intent. Classifying it is not merely a language problem. It is a workflow, risk, and accountability problem.
 
 [Portfolio](https://ellehelvig.github.io/) · [LinkedIn](https://www.linkedin.com/in/ellehelvig/)
 
-## How I think about HR AI
+## Start here
 
-- **Start with the decision, not the tool.** Pick use cases on value, risk, and readiness.
-- **Build governance in from the start.** Legal, Privacy, and employee representatives see the design, not just the launch.
-- **Humans make consequential employment decisions.** AI informs hiring, pay, and performance. It does not decide them.
-- **Adoption is the product.** Training and measurement are part of the plan from day one.
+1. **[Work redesign: the People Partner role](https://github.com/ellehelvig/hr-ai-transformation-playbook/blob/main/01-use-cases/work-redesign-people-partner.md)**
+   The thinking. One HR role broken into tasks and classified: rules where rules are exact, AI where it helps a person, and people where judgment and accountability matter. Zero tasks currently meet the evidence threshold for end-to-end model autonomy.
 
-## Selected work
+2. **[Resolve](https://github.com/ellehelvig/peopleops-resolution-agent)**
+   The evidence. An HR case workflow with a human approval gate and an audit trail, built with rules and no language model. It passes its 60-case regression suite and 0 of 16 held-out cases, and production use is withheld because sensitive concerns were missed. The original holdout remains historical evidence; any redesign needs new unseen tests. [Try the demo](https://ellehelvig.github.io/peopleops-resolution-agent/) or read [how it works](https://github.com/ellehelvig/peopleops-resolution-agent/blob/main/TECHNICAL-WALKTHROUGH.md).
 
-### [HR AI Transformation Playbook](https://github.com/ellehelvig/hr-ai-transformation-playbook)
+3. **[HR AI Transformation Playbook](https://github.com/ellehelvig/hr-ai-transformation-playbook)**
+   The reference system behind both: use-case prioritization, governance templates, evaluation tooling, and adoption material for a People AI program.
 
-The operating model for an HR AI program, from choosing use cases to proving value. It includes 37 vetted use cases with a prioritization matrix, governance templates for the EU AI Act and US state and city laws, a literacy curriculum, and a [live ROI calculator](https://ellehelvig.github.io/hr-ai-transformation-playbook/08-roi-measurement/dashboard.html). It also includes working, tested tools: HR tools an AI assistant can call, which keep a human reviewer in every decision, and evaluations that can block a launch.
-
-### [Resolve: PeopleOps Resolution Agent](https://github.com/ellehelvig/peopleops-resolution-agent)
-
-An HR case agent that takes an employee request, such as parental leave or a relocation, from intake to a recommendation with policy citations, a human approval step, and an audit trail. Tested against 60 scenarios, including prompt injection and Employee Relations escalations. [Try the demo](https://ellehelvig.github.io/peopleops-resolution-agent/); it runs in your browser.
-
-[![Resolve walkthrough: a parental-leave request answered with a policy citation, a prompt-injection attempt refused, and a People Partner approving the draft](https://raw.githubusercontent.com/ellehelvig/peopleops-resolution-agent/main/docs/assets/resolve-walkthrough.gif)](https://ellehelvig.github.io/peopleops-resolution-agent/)
-
-## What the work shows
-
-| Capability | Where to see it |
-| --- | --- |
-| AI strategy and prioritization | [Prioritization matrix](https://github.com/ellehelvig/hr-ai-transformation-playbook/blob/main/01-use-cases/prioritization-matrix.md) and [18-month roadmap](https://github.com/ellehelvig/hr-ai-transformation-playbook/blob/main/06-roadmap/transformation-roadmap-template.md) |
-| Governance | [Governance suite](https://github.com/ellehelvig/hr-ai-transformation-playbook/tree/main/03-governance), including [key legal dates for HR](https://github.com/ellehelvig/hr-ai-transformation-playbook/blob/main/03-governance/README.md#key-dates-for-hr) |
-| Hands-on building | [Governed HR tools](https://github.com/ellehelvig/hr-ai-transformation-playbook/tree/main/10-mcp-agents) and [Resolve](https://github.com/ellehelvig/peopleops-resolution-agent) |
-| Adoption and value | [Literacy curriculum](https://github.com/ellehelvig/hr-ai-transformation-playbook/tree/main/04-enablement) and [business case](https://github.com/ellehelvig/hr-ai-transformation-playbook/tree/main/08-roi-measurement) |
-
-All data in these projects is synthetic. They are reference designs, not legal advice or production HR systems.
+All data in these projects is synthetic. They are prototypes and reference designs, not legal advice or production HR systems.
