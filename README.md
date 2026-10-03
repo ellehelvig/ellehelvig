@@ -1,6 +1,8 @@
 # Elle Helvig
 
-I help People teams decide where AI belongs, design practical controls, and plan adoption. My work connects HR and talent experience with hands-on prototypes, evaluation, and change leadership.
+**HR transformation · AI enablement · Responsible AI**
+
+I help People teams turn AI opportunities into governed workflows and adoption plans. My work connects HR operating experience, enterprise change leadership, technical fluency, and practical implementation.
 
 I bring HR operating experience from KPMG, MongoDB, VMware, Thomson Reuters, and SAIC. I build with AI-assisted development and document the limits alongside the results.
 
@@ -10,9 +12,9 @@ I bring HR operating experience from KPMG, MongoDB, VMware, Thomson Reuters, and
 
 | Work | What to look for |
 |---|---|
-| [HR AI Transformation Playbook](https://github.com/ellehelvig/hr-ai-transformation-playbook) | Use-case prioritization, governance templates, tools, training, and adoption planning |
-| [People Partner work redesign](https://github.com/ellehelvig/hr-ai-transformation-playbook/blob/main/01-use-cases/work-redesign-people-partner.md) | Where rules, AI assistance, and human judgment each belong |
-| [Resolve](https://github.com/ellehelvig/peopleops-resolution-agent) | A synthetic HR workflow with policy evidence, review gates, and published evaluation failures. [Try the demo](https://ellehelvig.github.io/peopleops-resolution-agent/) |
+| [Design the work: People Partner redesign](https://github.com/ellehelvig/hr-ai-transformation-playbook/blob/main/01-use-cases/work-redesign-people-partner.md) | Task boundaries, accountability, and where rules, AI assistance, and human judgment belong |
+| [Inspect the implementation: Resolve](https://github.com/ellehelvig/peopleops-resolution-agent) | Policy evidence, review gates, and published evaluation failures. [Try the demo](https://ellehelvig.github.io/peopleops-resolution-agent/) |
+| [Lead adoption: HR AI Transformation Playbook](https://github.com/ellehelvig/hr-ai-transformation-playbook) | Reusable intake and governance tools, a [literacy curriculum and adoption plan](https://github.com/ellehelvig/hr-ai-transformation-playbook/tree/main/04-enablement), and [measurement guidance](https://github.com/ellehelvig/hr-ai-transformation-playbook/tree/main/08-roi-measurement) |
 
 ## Why I build
 
