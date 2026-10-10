@@ -1,23 +1,21 @@
 # Elle Helvig
 
-**HR transformation · AI enablement · Responsible AI**
+**HR AI transformation | People systems | Change and enablement**
 
-I help People teams turn AI opportunities into governed workflows and adoption plans. My work connects HR operating experience, enterprise change leadership, technical fluency, and practical implementation.
+I connect enterprise HR experience with practical AI workflow design. My background spans talent management, People systems, manager enablement, and organizational change at KPMG, MongoDB, VMware, SAIC, and Thomson Reuters.
 
-I bring HR operating experience from KPMG, MongoDB, VMware, Thomson Reuters, and SAIC. I build with AI-assisted development and document the limits alongside the results.
+My independent portfolio explores how HR teams choose useful AI opportunities, redesign work, and evaluate whether an approach deserves to move forward. I frame the HR problems, define human responsibilities and evaluation questions, and build demonstrations with AI-assisted development. The work is separate from my employment accomplishments. It uses synthetic examples and does not claim deployed HR outcomes.
 
-[Portfolio](https://ellehelvig.github.io/) · [LinkedIn](https://www.linkedin.com/in/ellehelvig/)
+Start with the **HR AI Transformation Playbook** for the leadership approach, then inspect Resolve for a concrete example of the tradeoffs and limits.
 
 ## Start here
 
-| Work | What to look for |
-|---|---|
-| [Design the work: People Partner redesign](https://github.com/ellehelvig/hr-ai-transformation-playbook/blob/main/01-use-cases/work-redesign-people-partner.md) | Task boundaries, accountability, and where rules, AI assistance, and human judgment belong |
-| [Inspect the implementation: Resolve](https://github.com/ellehelvig/peopleops-resolution-agent) | Policy evidence, review gates, and published evaluation failures. [Try the demo](https://ellehelvig.github.io/peopleops-resolution-agent/) |
-| [Lead adoption: HR AI Transformation Playbook](https://github.com/ellehelvig/hr-ai-transformation-playbook) | Reusable intake and governance tools, a [literacy curriculum and adoption plan](https://github.com/ellehelvig/hr-ai-transformation-playbook/tree/main/04-enablement), and [measurement guidance](https://github.com/ellehelvig/hr-ai-transformation-playbook/tree/main/08-roi-measurement) |
+1. [HR AI Transformation Playbook](https://github.com/ellehelvig/hr-ai-transformation-playbook): select a use case, redesign the work, and plan a measured pilot. Reference materials requiring local review.
+2. [People Partner work redesign](https://github.com/ellehelvig/hr-ai-transformation-playbook/blob/main/01-use-cases/work-redesign-people-partner.md): a fictional service workflow with explicit human accountability. Proposed design, no completed employee pilot.
+3. [Resolve](https://github.com/ellehelvig/peopleops-resolution-agent): a synthetic rules-based demonstration with a simulated review queue, temporary activity history, and published evaluation failures. The optional model screen remains unvalidated for real HR use.
 
-## Why I build
+[Explore the rules-only demo](https://ellehelvig.github.io/peopleops-resolution-agent/) · [Read the failure evidence](https://github.com/ellehelvig/peopleops-resolution-agent/blob/main/docs/evaluation-results.md) · [LinkedIn](https://www.linkedin.com/in/ellehelvig/)
 
-I want HR AI work to be useful enough to adopt and clear enough to question. That means starting with the work, making consequential decisions accountable to people, and asking what evidence a system needs before it earns more autonomy.
+## The question behind the portfolio
 
-**Current status:** these projects are reference tools and experimental prototypes using synthetic data. Resolve's browser demo is rules-based; the repo also includes an optional model screen. Production use remains withheld. The [evaluation notes](https://github.com/ellehelvig/peopleops-resolution-agent/blob/main/docs/evaluation-methodology.md) explain why.
+Where can AI make HR work more useful, and what should stay with people? My aim is to make those decisions clear enough to inspect, challenge, and improve. Production use of the Resolve prototype remains withheld.
