@@ -1,23 +1,21 @@
 # Elle Helvig
 
-**HR transformation · AI enablement · Responsible AI**
+**HR AI transformation | Work redesign | Responsible adoption**
 
-I help People teams turn AI opportunities into governed workflows and adoption plans. My work connects HR operating experience, enterprise change leadership, technical fluency, and practical implementation.
+I design practical HR AI reference tools and synthetic workflow demonstrations. I frame the HR problem, define human responsibilities, and build examples with AI-assisted development so the decisions and evidence are open to inspection.
 
-I bring HR operating experience from KPMG, MongoDB, VMware, Thomson Reuters, and SAIC. I build with AI-assisted development and document the limits alongside the results.
+## Start with the Playbook
 
-[Portfolio](https://ellehelvig.github.io/) · [LinkedIn](https://www.linkedin.com/in/ellehelvig/)
+[**HR AI Transformation Playbook**](https://github.com/ellehelvig/hr-ai-transformation-playbook) connects four decisions: identify a worthwhile opportunity, redesign the work, enable adoption, and evaluate whether to proceed.
 
-## Start here
+- [Choose an opportunity](https://github.com/ellehelvig/hr-ai-transformation-playbook/blob/main/01-use-cases/prioritization-matrix.md): weigh usefulness and readiness after resolving hard constraints.
+- [Redesign People Partner work](https://github.com/ellehelvig/hr-ai-transformation-playbook/blob/main/01-use-cases/work-redesign-people-partner.md): follow a fictional request through tasks, handoffs, and human accountability.
+- [Plan adoption and evaluation](https://github.com/ellehelvig/hr-ai-transformation-playbook/blob/main/04-enablement/adoption-playbook.md): practice the workflow, measure the whole task, and decide whether to expand, pause, or stop.
 
-| Work | What to look for |
-|---|---|
-| [Design the work: People Partner redesign](https://github.com/ellehelvig/hr-ai-transformation-playbook/blob/main/01-use-cases/work-redesign-people-partner.md) | Task boundaries, accountability, and where rules, AI assistance, and human judgment belong |
-| [Inspect the implementation: Resolve](https://github.com/ellehelvig/peopleops-resolution-agent) | Policy evidence, review gates, and published evaluation failures. [Try the demo](https://ellehelvig.github.io/peopleops-resolution-agent/) |
-| [Lead adoption: HR AI Transformation Playbook](https://github.com/ellehelvig/hr-ai-transformation-playbook) | Reusable intake and governance tools, a [literacy curriculum and adoption plan](https://github.com/ellehelvig/hr-ai-transformation-playbook/tree/main/04-enablement), and [measurement guidance](https://github.com/ellehelvig/hr-ai-transformation-playbook/tree/main/08-roi-measurement) |
+## See the choices in practice
 
-## Why I build
+[**Resolve**](https://github.com/ellehelvig/peopleops-resolution-agent) is a supporting rules-based demonstration of HR request handling. Explore where routine support helps and where a person needs to take ownership.
 
-I want HR AI work to be useful enough to adopt and clear enough to question. That means starting with the work, making consequential decisions accountable to people, and asking what evidence a system needs before it earns more autonomy.
+**Scope:** reference materials, proposed pilots, and synthetic demonstrations. Resolve simulates review, executes no employment actions, and remains unsuitable for production HR use. [Evaluation evidence and limits](https://github.com/ellehelvig/peopleops-resolution-agent/blob/main/docs/evaluation-results.md).
 
-**Current status:** these projects are reference tools and experimental prototypes using synthetic data. Resolve's browser demo is rules-based; the repo also includes an optional model screen. Production use remains withheld. The [evaluation notes](https://github.com/ellehelvig/peopleops-resolution-agent/blob/main/docs/evaluation-methodology.md) explain why.
+[Portfolio](https://ellehelvig.github.io/) · [Try the synthetic demo](https://ellehelvig.github.io/peopleops-resolution-agent/) · [LinkedIn](https://www.linkedin.com/in/ellehelvig/)
