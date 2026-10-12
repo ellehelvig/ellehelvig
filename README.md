@@ -1,21 +1,77 @@
-# Elle Helvig
+<picture>
+  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/profile-mobile-dark.svg">
+  <source media="(max-width: 600px)" srcset="assets/profile-mobile-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/profile-dark.svg">
+  <img alt="Elle Helvig. HR transformation leader designing responsible AI for people work." src="assets/profile-light.svg" width="100%">
+</picture>
 
-**HR AI transformation | Work redesign | Responsible adoption**
+<p align="center">
+  <a href="https://ellehelvig.github.io/">Portfolio</a> &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/ellehelvig/">LinkedIn</a> &nbsp;·&nbsp;
+  <a href="mailto:ellehelvig@gmail.com">Email</a>
+</p>
 
-I design practical HR AI reference tools and synthetic workflow demonstrations. I frame the HR problem, define human responsibilities, and build examples with AI-assisted development so the decisions and evidence are open to inspection.
+<br>
 
-## Start with the Playbook
+I turn responsible AI principles into practical HR workflows, governance, evaluation, and adoption. The work below shows where AI can support people work, where it should stop, and what evidence a team needs before anything scales.
 
-[**HR AI Transformation Playbook**](https://github.com/ellehelvig/hr-ai-transformation-playbook) connects four decisions: identify a worthwhile opportunity, redesign the work, enable adoption, and evaluate whether to proceed.
+<br>
 
-- [Choose an opportunity](https://github.com/ellehelvig/hr-ai-transformation-playbook/blob/main/01-use-cases/prioritization-matrix.md): weigh usefulness and readiness after resolving hard constraints.
-- [Redesign People Partner work](https://github.com/ellehelvig/hr-ai-transformation-playbook/blob/main/01-use-cases/work-redesign-people-partner.md): follow a fictional request through tasks, handoffs, and human accountability.
-- [Plan adoption and evaluation](https://github.com/ellehelvig/hr-ai-transformation-playbook/blob/main/04-enablement/adoption-playbook.md): practice the workflow, measure the whole task, and decide whether to expand, pause, or stop.
+### Selected work
 
-## See the choices in practice
+<a href="https://github.com/ellehelvig/hr-ai-transformation-playbook">
+<picture>
+  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/card-playbook-mobile-dark.svg">
+  <source media="(max-width: 600px)" srcset="assets/card-playbook-mobile-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/card-playbook-dark.svg">
+  <img alt="01. HR AI Transformation Playbook. Operating model, flagship." src="assets/card-playbook-light.svg" width="100%">
+</picture>
+</a>
 
-[**Resolve**](https://github.com/ellehelvig/peopleops-resolution-agent) is a supporting rules-based demonstration of HR request handling. Explore where routine support helps and where a person needs to take ownership.
+An operating model that takes HR leaders from AI opportunity through work redesign, governance, pilots, evaluation, and adoption.
 
-**Scope:** reference materials, proposed pilots, and synthetic demonstrations. Resolve simulates review, executes no employment actions, and remains unsuitable for production HR use. [Evaluation evidence and limits](https://github.com/ellehelvig/peopleops-resolution-agent/blob/main/docs/evaluation-results.md).
+<a href="https://github.com/ellehelvig/peopleops-resolution-agent">
+<picture>
+  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/card-resolve-mobile-dark.svg">
+  <source media="(max-width: 600px)" srcset="assets/card-resolve-mobile-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/card-resolve-dark.svg">
+  <img alt="02. Resolve. Workflow demonstration, live demo." src="assets/card-resolve-light.svg" width="100%">
+</picture>
+</a>
 
-[Portfolio](https://ellehelvig.github.io/) · [Try the synthetic demo](https://ellehelvig.github.io/peopleops-resolution-agent/) · [LinkedIn](https://www.linkedin.com/in/ellehelvig/)
+A synthetic HR request workflow that shows where rules help, where a person must decide, and where the system stops. [Try the demo](https://ellehelvig.github.io/peopleops-resolution-agent/) · [Evidence and limits](https://github.com/ellehelvig/peopleops-resolution-agent/blob/main/docs/evaluation-results.md)
+
+<a href="https://ellehelvig.github.io/">
+<picture>
+  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/card-portfolio-mobile-dark.svg">
+  <source media="(max-width: 600px)" srcset="assets/card-portfolio-mobile-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/card-portfolio-dark.svg">
+  <img alt="03. Portfolio. Case studies, website." src="assets/card-portfolio-light.svg" width="100%">
+</picture>
+</a>
+
+Case studies, design choices, and evidence for each project, in one place.
+
+<br>
+
+### What I work on
+
+- **AI-enabled work redesign.** Which tasks change, which stay human, and why.
+- **Responsible AI governance.** Policy, risk review, and decision rights, settled before the build.
+- **HR transformation.** Operating models and talent practices that hold up through change.
+- **AI adoption and enablement.** Literacy, practice time, and the habits that make change stick.
+- **Evaluation and human oversight.** Evidence that a pilot worked, and a person accountable for each decision.
+
+<br>
+
+### Background
+
+I'm an HR transformation and organizational change leader with a background in enterprise talent strategy, HR technology, organizational effectiveness, and workforce transformation. I've partnered with business and HR leaders to modernize talent practices, strengthen workforce capabilities, and lead complex change across global organizations.
+
+Today, my focus is where AI, HR, and the future of work meet. I bring enterprise transformation experience to hands-on AI development, exploring how well-designed workflows, responsible governance, and thoughtful adoption can improve how organizations operate and how people work.
+
+<br>
+
+### Connect
+
+[Portfolio](https://ellehelvig.github.io/) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/ellehelvig/) &nbsp;·&nbsp; [ellehelvig@gmail.com](mailto:ellehelvig@gmail.com)
