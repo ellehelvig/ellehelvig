@@ -2,7 +2,7 @@
   <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/profile-mobile-dark.svg">
   <source media="(max-width: 600px)" srcset="assets/profile-mobile-light.svg">
   <source media="(prefers-color-scheme: dark)" srcset="assets/profile-dark.svg">
-  <img alt="Elle Helvig. HR transformation leader designing responsible AI for people work." src="assets/profile-light.svg" width="100%">
+  <img alt="Elle Helvig. HR transformation leader designing responsible AI for people work. Focus: governance, evaluation, and adoption." src="assets/profile-light.svg" width="100%">
 </picture>
 
 <p align="center">
@@ -17,7 +17,7 @@ I turn responsible AI principles into practical HR workflows, governance, evalua
 
 <br>
 
-### Selected work
+## Selected work
 
 <a href="https://github.com/ellehelvig/hr-ai-transformation-playbook">
 <picture>
@@ -54,17 +54,33 @@ Case studies, design choices, and evidence for each project, in one place.
 
 <br>
 
-### What I work on
+## What I work on
 
-- **AI-enabled work redesign.** Which tasks change, which stay human, and why.
-- **Responsible AI governance.** Policy, risk review, and decision rights, settled before the build.
-- **HR transformation.** Operating models and talent practices that hold up through change.
-- **AI adoption and enablement.** Literacy, practice time, and the habits that make change stick.
-- **Evaluation and human oversight.** Evidence that a pilot worked, and a person accountable for each decision.
+<table>
+  <tr>
+    <td width="50%"><strong>AI-enabled work redesign.</strong><br>Which tasks change, which stay human, and why.</td>
+    <td width="50%"><strong>Responsible AI governance.</strong><br>Policy, risk review, and decision rights, settled before the build.</td>
+  </tr>
+  <tr>
+    <td width="50%"><strong>HR transformation.</strong><br>Operating models and talent practices that hold up through change.</td>
+    <td width="50%"><strong>AI adoption and enablement.</strong><br>Literacy, practice time, and the habits that make change stick.</td>
+  </tr>
+  <tr>
+    <td colspan="2"><strong>Evaluation and human oversight.</strong><br>Evidence that a pilot worked, and a person accountable for each decision.</td>
+  </tr>
+</table>
 
 <br>
 
-### Background
+## Stack and methods
+
+Python · HTML / CSS · MCP tools · GitHub Actions · Synthetic-data evaluation · Human review
+
+[Technical evidence: playbook](https://github.com/ellehelvig/hr-ai-transformation-playbook/blob/main/docs/evidence-index.md) · [Technical evidence: Resolve](https://github.com/ellehelvig/peopleops-resolution-agent/blob/main/TECHNICAL-WALKTHROUGH.md)
+
+<br>
+
+## Background
 
 I'm an HR transformation and organizational change leader with a background in enterprise talent strategy, HR technology, organizational effectiveness, and workforce transformation. I've partnered with business and HR leaders to modernize talent practices, strengthen workforce capabilities, and lead complex change across global organizations.
 
@@ -72,6 +88,6 @@ Today, my focus is where AI, HR, and the future of work meet. I bring enterprise
 
 <br>
 
-### Connect
+## Connect
 
 [Portfolio](https://ellehelvig.github.io/) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/ellehelvig/) &nbsp;·&nbsp; [ellehelvig@gmail.com](mailto:ellehelvig@gmail.com)
