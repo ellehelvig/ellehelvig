@@ -19,4 +19,8 @@ Senior HR and talent professional focused on AI enablement, learning and develop
 
 These are independent projects using synthetic data. Their tests do not establish production readiness, legal compliance, or measured business outcomes.
 
-[LinkedIn](https://www.linkedin.com/in/ellehelvig/) · [Email](mailto:ellehelvig@gmail.com) · [License scope](LICENSE-SCOPE.md)
+[LinkedIn](https://www.linkedin.com/in/ellehelvig/) · [Email](mailto:ellehelvig@gmail.com)
+
+## Content and rights
+
+[MIT](LICENSE) covers original source code and verified original design contributions only. Personal biography, career history, portraits, and testimonials are **all rights reserved**. Personal content in `README.md`, `scripts/generate_brand_assets.py`, and the four `assets/profile-*.svg` files is excluded. [NOTICE](NOTICE) lists every excluded file path and third-party exception; the [asset-origin inventory](docs/asset-origin.md) records the checks. Review screenshots are outside MIT.

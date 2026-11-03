@@ -1,0 +1,79 @@
+Copyright (c) 2026 Elle Helvig.
+
+The MIT license applies only to the source code and verified original design
+contributions identified below. Personal biography, career history, portraits,
+testimonials, and other non-code content are excluded. All rights reserved in
+Elle's excluded original content. Third-party owners retain their own rights.
+This notice grants no rights to a person's likeness or endorsement.
+
+The exclusions apply wherever that content occurs in the listed files, including
+text embedded in code, SVGs, or screenshots. A file's markup or layout can be MIT
+while its personal text remains reserved. Future personal content is excluded by
+the same rule; update this inventory whenever files are added.
+
+MIT-covered material
+====================
+
+MIT-covered source: `scripts/generate_brand_assets.py`, excluding the personal string content identified above.
+
+MIT-covered original design contributions: layout, geometry, and colors of the 16 SVGs listed in `docs/asset-origin.md`. Each current SVG was regenerated in memory from the repository's Python generator and matched byte for byte. Personal text in the four profile SVGs remains excluded. System fonts are referenced by name; no font software is embedded.
+
+Personal content: excluded file paths
+=====================================
+
+- `README.md`
+- `scripts/generate_brand_assets.py`
+- `assets/profile-dark.svg`
+- `assets/profile-light.svg`
+- `assets/profile-mobile-dark.svg`
+- `assets/profile-mobile-light.svg`
+
+Personal text in `README.md` includes the introduction, career/focus statements, and contact identity. In the generator and profile SVGs, personal name/positioning text is reserved; reusable Python logic, layout, geometry, and color definitions are MIT.
+
+No standalone portrait file or testimonial file is tracked in the reviewed tree. The GitHub account avatar is hosted outside this repository and is not included in the MIT grant. Any portrait, career history, or testimonial depicted in the review files below remains excluded.
+
+Review images: excluded file paths
+==================================
+
+- `assets/review/after-dark.png`
+- `assets/review/after-light.png`
+- `assets/review/after-mobile-dark.png`
+- `assets/review/after-mobile-light.png`
+- `assets/review/before-dark.png`
+- `assets/review/before-light.png`
+- `assets/review/before-mobile-dark.png`
+- `assets/review/before-mobile-light.png`
+- `assets/review/portfolio-readme-after-dark.png`
+- `assets/review/portfolio-readme-after-light.png`
+- `assets/review/portfolio-readme-after-mobile-dark.png`
+- `assets/review/portfolio-readme-after-mobile-light.png`
+- `assets/review/portfolio-readme-before-dark.png`
+- `assets/review/portfolio-readme-before-light.png`
+- `assets/review/portfolio-readme-before-mobile-dark.png`
+- `assets/review/portfolio-readme-before-mobile-light.png`
+- `assets/review/profile-readme-after-dark.png`
+- `assets/review/profile-readme-after-light.png`
+- `assets/review/profile-readme-after-mobile-dark.png`
+- `assets/review/profile-readme-after-mobile-light.png`
+- `assets/review/profile-readme-before-dark.png`
+- `assets/review/profile-readme-before-light.png`
+- `assets/review/profile-readme-before-mobile-dark.png`
+- `assets/review/profile-readme-before-mobile-light.png`
+- `docs/review/2026-11-03/readme-after-desktop.jpg`
+- `docs/review/2026-11-03/readme-after-mobile.jpg`
+- `docs/review/2026-11-03/readme-before-desktop.jpg`
+- `docs/review/2026-11-03/readme-before-mobile.jpg`
+
+All rights reserved in Elle's original screenshot content, including any personal biography, career history, portrait, or testimonial. Third-party screenshot content retains its separate rights. These are mixed review records, not MIT design assets.
+
+Third-party exceptions and terms
+================================
+
+No web-font files, remote image imports, third-party template dependencies, or embedded font binaries were found in the current SVG generator or its 16 outputs. System font names are fallback references, not a grant over font software. Historical review images can depict older font choices whose exact origin is not recorded; those images are excluded from MIT.
+
+GitHub interface elements, logos, trademarks, and third-party material visible in review screenshots are separate exceptions. They are not licensed by Elle under MIT. Their respective owners retain their rights; see [GitHub Terms of Service, Intellectual Property Notice](https://docs.github.com/en/site-policy/github-terms/github-terms-of-service#g-intellectual-property-notice). Historical screenshots may also depict project assets from other repositories. A screenshot does not relicense the material it depicts.
+
+Documentation and historical versions
+======================================
+
+Prose documentation and review records are outside the source-code/design MIT grant unless expressly identified above. Historical files, removed content, and assets in other repositories are not relicensed by this notice.
