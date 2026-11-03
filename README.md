@@ -23,4 +23,4 @@ These are independent projects using synthetic data. Their tests do not establis
 
 ## Content and rights
 
-[MIT](LICENSE) covers original source code and verified original design contributions only. Personal biography, career history, portraits, and testimonials are **all rights reserved**. Personal content in `README.md`, `scripts/generate_brand_assets.py`, and the four `assets/profile-*.svg` files is excluded. [NOTICE](NOTICE) lists every excluded file path and third-party exception; the [asset-origin inventory](docs/asset-origin.md) records the checks. Review screenshots are outside MIT.
+[MIT](LICENSE) covers original source code and verified original design contributions only. Personal biography, career history, portraits, and testimonials are **all rights reserved**. Personal content in `README.md`, `scripts/generate_brand_assets.py`, `assets/profile-dark.svg`, `assets/profile-light.svg`, `assets/profile-mobile-dark.svg`, and `assets/profile-mobile-light.svg` is excluded. [NOTICE](NOTICE) lists every excluded file path and third-party exception; the [asset-origin inventory](docs/asset-origin.md) records the checks. Review screenshots are outside MIT.
