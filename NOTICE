@@ -77,3 +77,13 @@ Documentation and historical versions
 ======================================
 
 Prose documentation and review records are outside the source-code/design MIT grant unless expressly identified above. Historical files, removed content, and assets in other repositories are not relicensed by this notice.
+
+Visual refresh, 13 November 2026
+================================
+
+`scripts/generate_visual_header.py`, `assets/profile-modern.svg`, and
+`assets/profile-modern-mobile.svg` contain original design code and geometry
+created for this portfolio refresh. That source/design is MIT-covered. Personal
+positioning and identity text in the generator and SVGs remains all rights
+reserved under the exclusions above. No font binaries or third-party images
+are embedded. See the asset-origin inventory for hashes and regeneration.
