@@ -9,7 +9,7 @@ HR transformation leader building and evaluating responsible AI workflows for pe
 - **[HR AI Transformation Playbook](https://github.com/ellehelvig/hr-ai-transformation-playbook):** use-case selection, work redesign, governance, and enablement materials, with executable synthetic examples. [Evidence and limits](https://github.com/ellehelvig/hr-ai-transformation-playbook/blob/main/docs/evidence-index.md).
 - **[Resolve](https://github.com/ellehelvig/peopleops-resolution-agent):** a fictional HR request workflow showing policy lookup, simulated human review, and routing failures. [Results](https://github.com/ellehelvig/peopleops-resolution-agent/blob/main/docs/evaluation-results.md). Production use is withheld.
 - **[Work Experiment Lab](https://elle-helvig-work-experiment-lab.lovable.app):** an interactive synthetic portfolio for prioritization, experiment design, accuracy safeguards, and accountable revision decisions. No real study or AI calls.
-- **[Portfolio](https://ellehelvig.github.io/):** case studies linking the two projects to their source, design choices, and limitations.
+- **[Portfolio](https://ellehelvig.github.io/):** case studies connecting the work samples to their design choices, evidence, and limitations.
 
 [Read the Resolve case study](https://github.com/ellehelvig/peopleops-resolution-agent/blob/main/docs/case-study.md) · [Practitioner evaluation and pilot plan](https://github.com/ellehelvig/peopleops-resolution-agent/blob/main/docs/practitioner-pilot-kit.md)
 
