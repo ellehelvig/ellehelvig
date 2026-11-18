@@ -19,10 +19,11 @@ M.S. · SHRM-SCP · Open to talent, AI enablement, and HR transformation leaders
 
 ## What I bring
 
-- Talent management and AI-enabled work redesign
-- Learning, adoption, and change management
-- HR operations with clear human accountability
-- Evaluation and responsible AI governance
+- **Talent management and AI-enabled work redesign:** see the [People Partner work redesign](https://github.com/ellehelvig/hr-ai-transformation-playbook/blob/main/01-use-cases/work-redesign-people-partner.md), which splits a role into tasks for rules, AI, and people.
+- **Learning, adoption, and change management:** see the [HR AI literacy curriculum](https://github.com/ellehelvig/hr-ai-transformation-playbook/blob/main/04-enablement/hr-ai-literacy-curriculum.md) and the [adoption playbook](https://github.com/ellehelvig/hr-ai-transformation-playbook/blob/main/04-enablement/adoption-playbook.md).
+- **Running a leadership team's operating rhythm:** see the [operating rhythm](https://github.com/ellehelvig/people-leadership-os/blob/main/docs/operating-rhythm.md) and [weekly brief](https://github.com/ellehelvig/people-leadership-os/blob/main/briefs/2026-w46-cpo-brief.md) in People Leadership OS.
+- **HR operations with clear human accountability:** see how [Resolve](https://github.com/ellehelvig/peopleops-resolution-agent) holds every recommendation for a named reviewer.
+- **Evaluation and responsible AI governance:** see [Resolve's published test failures](https://github.com/ellehelvig/peopleops-resolution-agent/blob/main/docs/evaluation-results.md) and the Playbook's [governance section](https://github.com/ellehelvig/hr-ai-transformation-playbook/blob/main/03-governance/README.md).
 
 All projects are independent and use invented data. I built them with AI-assisted development; the HR problems, operating models, and decision rules are mine. None claims production readiness or measured business outcomes.
 
